@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "title": "10 Curiosidades Incríveis Sobre Gatos",
+      "image": "gatitos.jpg",
+      "category": "Animais",
+      "content": "Gatos são animais fascinantes e cheios de mistérios. Descubra 10 curiosidades incríveis sobre esses felinos adoráveis."
+    },
+    {
+      "id": 2,
+      "title": "Os Cães Mais Inteligentes do Mundo",
+      "image": "caramelo.jpg",
+      "category": "Animais",
+      "content": "Você sabia que algumas raças de cães são consideradas mais inteligentes do que outras? Conheça as raças que se destacam pela sua inteligência e capacidade de aprendizado."
+    },
+    {
+      "id": 3,
+      "title": "A Incrível Jornada das Tartarugas Marinhas",
+      "image": "tartaruga.jpg",
+      "category": "Animais",
+      "content": "As tartarugas marinhas são animais incríveis que realizam longas migrações pelos oceanos. Descubra como esses animais se orientam e quais os desafios que enfrentam em sua jornada."
+    }
+  ]
