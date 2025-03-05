@@ -1,4 +1,4 @@
-# BuzzFeed Clone
+#🔴 BuzzFeed Clone
 
     📝 Este é projeto 5 do bootcamp Decola Tech da DIO x Avanade, onde tive de criar um clone do BuzzFeed com Angular.
 
